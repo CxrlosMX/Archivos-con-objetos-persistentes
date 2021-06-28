@@ -32,7 +32,6 @@ public class MenuObjecty {
         Date ahora = new Date();
         Alumno alum;
         Profesor prof;
-
         do {
             try {
                 op = Integer.parseInt(JOptionPane.showInputDialog(null, "MENU"
